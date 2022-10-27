@@ -1,6 +1,6 @@
 # Moving Object Detection using Background-Subtraction in OpenCV-Python
 
-<img src="images/banner-03.jpg" width="500"/>
+<img src="images/banner-03.jpg" width="1000"/>
 
 ## 1. Objective
 
